@@ -1,6 +1,6 @@
 node{
 	stage('SCM'){
-		git 'https://gitlab.com/Hazrian/projectbackend'
+		git 'https://github.com/Hazrian/ProjetBackEnd'
 	}
 	
 	stage('Compile'){
